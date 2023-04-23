@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+
+// This is my submission for the CS50x Week 1 Lab Activity. 
+// It is a simple program written in C to calculate the number of years needed to reach an ending population size, for a population that grows by 1/3 it's size every year and sheds 1/4 it's size every year as well.
+
+
 int main(void)
 {
 
