@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+// This is my solution to one of the problems from the CS50 week 1 problem set. 
+// I created a program in C that utilizes user input and for loops to create mirrored pyramids.
+
+
 int main(void)
 {
 
